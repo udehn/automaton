@@ -1,3 +1,3 @@
-NFA minimization
-DFA optimization
-DFA mirror inversion
+NFA minimization  
+DFA optimization  
+DFA mirror inversion  
